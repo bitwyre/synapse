@@ -1,0 +1,6 @@
+[submodule "lib/onnx"]
+	path = lib/onnx
+	url = git@github.com:onnx/onnx
+[submodule "lib/tvm"]
+	path = lib/tvm
+	url = git@github.com:dmlc/tvm
